@@ -1,6 +1,5 @@
 import os
 from pathlib import Path
-
 from setuptools import setup, find_packages
 
 from decorator_utils import get_version
